@@ -1,0 +1,39 @@
+Dialog Boxes: Modal and modeless dialog boxes for user input or messages.
+
+Text Output: A control specifically for outputting text, such as a read-only text box or a rich text box.
+
+Menus: Extend the current menu functionality to support submenus and checkable menu items.
+
+Context Menus: Right-click context menus for controls.
+
+Tooltips: Hover-over tooltips for controls to provide additional information.
+
+Status Bar: A status bar at the bottom of the window for displaying status messages.
+
+File Dialogs: Common dialogs for opening and saving files.
+
+Color Picker: A control for selecting colors.
+
+Font Picker: A control for selecting fonts.
+
+Tabs: More advanced tab control with closeable tabs, icons, etc.
+
+Splitter: A control to divide areas of the window and allow the user to resize them.
+
+Drag and Drop: Support for dragging and dropping items between controls.
+
+Animations: Support for simple animations or transitions.
+
+Theming: Ability to apply themes or skins to the application.
+
+Accessibility: Features to improve accessibility, such as keyboard navigation and screen reader support.
+
+Localization: Support for multiple languages and localization of text.
+
+Custom Controls: Framework for creating and using custom controls.
+
+Data Binding: Ability to bind controls to data sources for easier data management.
+
+MVC/MVVM Support: Support for Model-View-Controller or Model-View-ViewModel patterns.
+
+Graphics: Enhanced graphics support for drawing shapes, images, and handling transformations.
